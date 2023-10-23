@@ -1,8 +1,7 @@
 # Rex_Portfolio
 Entry data analyst exploring the data world as a professional
 
-Project 1: Website Data Classification
-
+[Project 1: Website Data Classification](https://github.com/LIONKINGGU/Classification-website)
 Utilized pandas and matplotlib to explore and visualize the dataset, identifying missing values and gaining insights into the distribution of numerical and categorical variables.
 Analyzed the distribution of key metrics such as 'Numof Clicks,' 'Mins spent,' and 'Frequency' to understand user engagement with the website.
 Investigated the distribution of devices used by visitors and their geographical locations, providing a comprehensive overview of user demographics.
