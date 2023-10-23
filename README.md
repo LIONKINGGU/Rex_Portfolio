@@ -11,6 +11,7 @@ Implemented a Decision Tree Classifier to predict the 'Category' variable based 
 Split the dataset into training and testing sets, trained the Decision Tree Classifier, and evaluated the model's performance using classification reports and a confusion matrix.
 Demonstrated the model's ability to predict user categories, providing valuable information for understanding and segmenting the user base of the website.
 
+![](https://github.com/LIONKINGGU/Rex_Portfolio/blob/main/Image/website%20classification%20image.png)
 
 # [Project 2: Customer-Segmentation](https://github.com/LIONKINGGU/Customer-Segmentation)
 Objective:
@@ -28,3 +29,4 @@ Results are visually presented using a scatter plot. Each cluster is differentia
 
 The clusters and centroids reveal insights into customer segments. Businesses can use this information for targeted marketing strategies, product recommendations, and tailored services for each customer cluster.
 
+![](https://github.com/LIONKINGGU/Rex_Portfolio/blob/main/Image/Customer%20Segmentation%20Images.png)
