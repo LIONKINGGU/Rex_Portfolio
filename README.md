@@ -14,7 +14,7 @@ Demonstrated the model's ability to predict user categories, providing valuable 
 
 # [Project 2: Customer-Segmentation](https://github.com/LIONKINGGU/Customer-Segmentation)
 Objective:
-This project aims to cluster customers based on their purchasing behavior using the K-means clustering algorithm. The goal is to uncover distinct segments within the customer base.
+This project aims to cluster customers based on their purchasing behaviour using the K-means clustering algorithm. The goal is to uncover distinct segments within the customer base.
 
 The project starts by loading customer data from 'customersdata.csv' and exploring the data types to understand the nature of the features.
 
