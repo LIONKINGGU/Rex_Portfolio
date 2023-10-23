@@ -1,5 +1,5 @@
 # Rex_Portfolio
-Entry data analyst exploring the data world as a beginner
+Entry data analyst exploring the data world as a professional
 
 Project 1: Website Data Classification
 
