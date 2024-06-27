@@ -1,5 +1,5 @@
 # Rex_Portfolio
-Entry data analyst exploring the data world as a professional
+data analyst exploring the data world as a professional
 
 # [Project 1: Website Data Classification](https://github.com/LIONKINGGU/Classification-website)
 Utilized pandas and matplotlib to explore and visualize the dataset, identifying missing values and gaining insights into the distribution of numerical and categorical variables.
